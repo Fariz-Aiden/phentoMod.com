@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    
+}
+
+.head h1{
+    color: rgb(255, 255, 255);
+    background-image: -moz-linear-gradient("./win.png");
+}
+
+.head {
+    margin: 0;
+    margin-top: 10;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(0, 0, 0);
+    height: 3.1cm;
+}
+
+.head img{
+    width: 1000px;
+    height: 12cm;
+}
+.feat {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 50px;
+    font-weight: 100;
+}
+
+.feat li{
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.download a{
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+}
+
+.download{
+    /* margin: auto; */
+    /* margin-top: 1; */
+    margin-left: 0;
+    background-color: rgb(43, 103, 231);
+    height: 100px;
+    width: 1519px;
+
+}
